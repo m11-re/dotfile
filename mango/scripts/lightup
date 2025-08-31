@@ -1,0 +1,1 @@
+brightnessctl set -d intel_backlight +1%
